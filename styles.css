@@ -12,7 +12,7 @@ body {
     padding: 0 10px;
     min-height: 100vh;
     align-items: center;
-    background: #a17965;
+    background: #444;
     justify-content: center;
     color: #fff;
 }
@@ -125,4 +125,14 @@ header p {
     .qr-code img {
         width: 160px;
     }
+}
+
+footer {
+    position: absolute;
+    display: flex; 
+    color: #fff;
+    bottom: 0;
+    margin: 10px;
+    gap: 25px;
+    z-index: -1;  
 }
