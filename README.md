@@ -14,7 +14,7 @@
 
 QR Code Generator uses external api to generate your qr code from text or url.
 
-▷ [Access the finished project](https://vitalinx7.github.io//)
+▷ [Access the finished project](https://vitalinx7.github.io/qrcode-generator/)
 
 
 ## 🛠️ Technologies
